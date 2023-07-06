@@ -1,0 +1,6 @@
+flet==0.7.4
+flet-core==0.7.4
+ft==1.0.0
+numpy==1.25.0
+pandas==2.0.3
+
